@@ -20,6 +20,27 @@ Any file uploaded will be treated as an abstraction, or object.
 
 S3 allows for:
 -	Industry-leading scalability
--	Data availability 
+-	Data availability (replicate across at 3 availability zones)
 -	Data security 
 -	Performance
+
+S3 has simple management capabilities that allow you to organize your data and fine-tune access controls to match your specific needs.
+
+A ^^bucket^^ is a logical container for an unlimited amount of objects. It can be look at as something similar to a folder.
+
+Amazon S3 is designed for durability and saves data for millions of apps for businesses all over the world. (11 9s durability)
+
+^^Workings of Amazon S3^^
+
+The type of S3 storage class must be specified when files are uploaded to the bucket.
+
+- standard storage class
+    - default and most expensive, highest level of accessibility and durability
+- standard infrequent access (IA) class
+    - used where data is long lived, but not frequently accessed
+- glacier storage class
+    - best for data that is archived and high performance is not required
+- zone-IA class
+    - for data infrequently accessed and stored only a particular region
+- standard reduced redundancy storage class
+    - used for data that is noncritical and reproduced quickly
