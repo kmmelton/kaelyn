@@ -1,11 +1,5 @@
 site_name: "Kaelyn Melton"
 site_url:
-nav:
-  - Home: index.md
-  - About: about.md
-  - Personal:
-    - Recipes: unstuffed_bell_peppers.md
-    
 theme:
   name: material
   features: 
