@@ -7,3 +7,4 @@ theme:
   name: material
   features: 
     - navigation.instant
+    - navigation.tabs
