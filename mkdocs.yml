@@ -5,3 +5,5 @@ nav:
   - About: about.md
 theme:
   name: material
+  features: 
+    - navigation.instant
