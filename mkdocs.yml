@@ -5,3 +5,7 @@ theme:
   features: 
     - navigation.instant
     - navigation.tabs
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
