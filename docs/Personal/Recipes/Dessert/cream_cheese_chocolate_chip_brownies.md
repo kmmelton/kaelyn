@@ -11,7 +11,8 @@ Makes 12 brownies
 
 ## Ingredients
 
-Cream cheese batter </br>
+Cream cheese batter
+
 - 2/3 cup melted semi sweet chocolate chips
 - 1 egg
 - 8 ounces softened cream cheese
@@ -19,7 +20,8 @@ Cream cheese batter </br>
 - 2 tbsp flour
 - 1/2 tsp vanilla
 
-Brownie batter </br>
+Brownie batter
+
 - 1/2 cup melted butter
 - 1/4 cup cocoa powder
 - 2 eggs
@@ -28,7 +30,8 @@ Brownie batter </br>
 - 1/8 tsp salt
 - 1 cup milk chocolate chips
 
-Frosting </br>
+Frosting
+
 - 1/4 cup melted semi sweet chocolate chips
 - 2 ounces softened cream cheese
 - 1/2 tsp vanilla
