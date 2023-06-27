@@ -42,7 +42,7 @@ Frosting </br>
 3. Pour batter in a greased, foil-lined 8x8 inch pan. Bake at 350 for 30-35 minutes until a toothpick inserted into the middle comes out mostly clean. Allow to cool completely.
 4. When the brownies are cooled, prepare the frosting. Blend together melted chocolate and cream cheese until smototh. Add vanilla and mix again until smooth. Gradually mix in powdered sugar. Add milk to thin frosting to a spreadable consistency. Spread on cooled brownies. Allow frosting to set (at least 30 minutes) before cutting into squares.
 
-# Nutrition
+## Nutrition
 
 | | |
 | :--- | :---: |
