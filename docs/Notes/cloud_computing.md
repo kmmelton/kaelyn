@@ -44,3 +44,9 @@ The type of S3 storage class must be specified when files are uploaded to the bu
     - for data infrequently accessed and stored only a particular region
 - standard reduced redundancy storage class
     - used for data that is noncritical and reproduced quickly
+
+^^Features of S3^^
+
+Lifecycle Management: </br>
+S3 defines a certain set of rules to be followed by a particular group of objects. </br>
+    - 2 types of action: transition and expiration
