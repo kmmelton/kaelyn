@@ -1,8 +1,11 @@
 # Taco Pasta
 
-^^About:^^ </br>
+## About
 
-^^Ingredients:^^ </br>
+^^Time:^^ </br>
+
+## Ingredients
+
 - 1lb ground beef
 - 1 chopped onion
 - 2 tbsp taco seasoning
@@ -16,7 +19,8 @@
 - salt and pepper to taste
 - 1/2 cup shredded mexican cheese
 
-^^Instructions:^^ </br>
+## Instructions
+
 1. Saute onion iwht olive oil in medium high heat in pot until softened, but not browned.
 2. Increase heat a bit and add ground beef. Cook until browned, breaking up as it cooks.
 3. Stir in taco seasoning and then pour in chicken broth. Add the rest of the ingredients and bring mixture to a boil.

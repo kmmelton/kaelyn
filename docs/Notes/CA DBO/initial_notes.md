@@ -34,6 +34,9 @@ h in lc (first column)
 s: split
 c: combine
 
+CSL List:
+287 over 081, 081 has shifted a column to the left. No erase keys, type over the top
+
 ### Process
 
 - Enter DCN, then enter
@@ -45,3 +48,8 @@ Model -> Tables -> Procedure (for new entity)
 Debug -> Model Debug Messaging
 
 
+# RTD
+
+- must have field and reason codes
+
+^^may wait^^ scenario 15
