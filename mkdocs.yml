@@ -1,8 +1,11 @@
-site_name: Kaelyn Melton
-site_url: ""
-nav:
-  - Home: index.md
-  - About: about.md
+site_name: "Kaelyn Melton"
+site_url:
 theme:
-  name: null
-  custom_dir: "cinder"
+  name: material
+  features: 
+    - navigation.instant
+    - navigation.tabs
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
