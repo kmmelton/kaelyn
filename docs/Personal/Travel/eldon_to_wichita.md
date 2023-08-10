@@ -28,10 +28,11 @@
 - Eldon airbnb: $330
 - Wichita airbnb: $150
 - Race entry: $110 
+- Hunting license: $300
 - Hunting license:
 - Gas: $360
 - Food: $250
 - Fun money: $150
 
-Total cost: $1350
+Total cost: $1650
 

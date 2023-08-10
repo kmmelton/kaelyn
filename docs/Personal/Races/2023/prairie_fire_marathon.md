@@ -12,3 +12,5 @@ Goals in order of importance </br>
 - top 5
 
 ## Race Plan
+
+Water Stations: 

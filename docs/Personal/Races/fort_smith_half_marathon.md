@@ -1,2 +1,0 @@
-# Fort Smith Half Marathon
-
