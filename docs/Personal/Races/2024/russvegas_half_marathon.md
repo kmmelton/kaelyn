@@ -1,2 +1,0 @@
-# RussVegas Half Marathon
-
