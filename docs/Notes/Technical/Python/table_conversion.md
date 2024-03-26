@@ -65,4 +65,12 @@ most of the reformatting work so that only small additional changes were require
       # Format tables in all files in the folder
       format_tables_in_folder(folder_path)
 
+Example of table before the conversion
+
+![](../../Attachments/python_table_conversion_before_conversion.PNG)
+
+Example of table after the conversion
+
+![](../../Attachments/python_table_conversion_converted.PNG)
+
 3/26/2024 
