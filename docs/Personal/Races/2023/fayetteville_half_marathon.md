@@ -1,1 +1,0 @@
-# Fayetteville Half Marathon
