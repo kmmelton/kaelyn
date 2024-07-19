@@ -19,6 +19,7 @@ Performer - New York - Websurrogates
 ## Tyler Griggs
 
 - logic changes and features
+- 
 
 ## Anna Hedrick
 
@@ -33,13 +34,15 @@ Performer - New York - Websurrogates
 
 - supporting North Carolina project, license reusable components, and helping the team with technical issues
 
-- Additional contents for Wisconsin, soon adding new provider types
+- Additional contents for Wisconsin
+    - Now working on new provider types and plans to deploy by end of next week
 
 ## Vinitha Nettikadan
 
 - NV PA UAT process
     - started UAT and ran some PAs
-    - found some missed requirements and logic changes so working on that new requirement
+    - found some missed requirements and logic changes
+        - plans to reset UAT testing **tomorrow**
 
 - Additionally monitoring NV PE 4 bots and AL 3 bots in prod
 
@@ -51,7 +54,8 @@ Performer - New York - Websurrogates
 
 ## Brian Peters 
 
-- inventory helper
+- Initial inventory helper finished
+    - Next step is to meet with adjudicators for translation to verastream procedure
 
 ## Sushmita Rao
 
@@ -59,6 +63,8 @@ Performer - New York - Websurrogates
 - oregon uat
     - facing blockers: data from business team, name of people added in orchestrator
 - colorado w9 process hypercare in production
+
+- waiting on access to oklahoma environment
 
 ## Joshua Yorko
 
@@ -72,3 +78,11 @@ to do:
 
 
 
+## Oklahoma Project
+
+- Assigned to: Sushmita Rao, Raghavendra Cheni
+
+Sushmita has requested access to the Oklahoma environment, but it has not yet been granted. Raghav already has access.
+
+In recent meeting with Oklahoma, there were three issues identified that need to be resolved. 
+Raghav is currently working on those issues.
