@@ -24,6 +24,8 @@ Performer - New York - Websurrogates
 ## Anna Hedrick
 
 - Updates for Virginia
+- testing Mass Tort
+    - issue with popups
 
 ## Kaelyn Melton
 
@@ -74,6 +76,8 @@ to do:
 
 - kubernetes deployment - MAUI images
 - Postgres DB (inventory) reports Migration AMS
+
+need scaling - testing auto scaling 
 
 
 
