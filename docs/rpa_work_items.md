@@ -15,11 +15,12 @@ Performer - New York - Websurrogates
 ## Gideon Fosu
 
 - Walking through Maestro Task with Anil or Raghav
+- **Assigning Gideon Arkansas project**
 
 ## Tyler Griggs
 
 - logic changes and features
-- 
+- **conflict of interest feature completed**
 
 ## Anna Hedrick
 
@@ -39,12 +40,16 @@ Performer - New York - Websurrogates
 - Additional contents for Wisconsin
     - Now working on new provider types and plans to deploy by end of next week
 
+- **testing provider types for wisconsin**
+
 ## Vinitha Nettikadan
 
 - NV PA UAT process
     - started UAT and ran some PAs
     - found some missed requirements and logic changes
         - plans to reset UAT testing **tomorrow**
+
+    **restarted uat process** 
 
 - Additionally monitoring NV PE 4 bots and AL 3 bots in prod
 
@@ -59,6 +64,8 @@ Performer - New York - Websurrogates
 - Initial inventory helper finished
     - Next step is to meet with adjudicators for translation to verastream procedure
 
+**login issues, uat test today**
+
 ## Sushmita Rao
 
 - recoupment automation hyper care
@@ -67,6 +74,8 @@ Performer - New York - Websurrogates
 - colorado w9 process hypercare in production
 
 - waiting on access to oklahoma environment
+
+
 
 ## Joshua Yorko
 
