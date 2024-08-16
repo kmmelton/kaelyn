@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to my personal website. I built this site using Mkdocs, documentation as code, and GitHub resources. My intentions with this page are to document work and trainings that I have successfully completed to use as a resource as well as to benefit my career development.
+Welcome to my personal website. I built this site using Mkdocs, documentation as code, and GitHub resources. My intentions with this page are to document work and trainings that I have successfully completed as well as hold some of my notes. I plan to use this as a resource as well as to benefit my career development.
 
 ## About Me
 
