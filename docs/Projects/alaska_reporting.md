@@ -1,18 +1,18 @@
 # Process Improvement Reporting Project
 
-This project entails bringing in three different datasets and producing a result file that contained matcas from ta various datasets based on specific columns.
+This project entails bringing in three different datasets and producing a result file that contained matches from the various datasets based on specific columns.
 
 the original datasets did not have consistent naming and required cleanup in order to perform the matching process.
 
 the resulting document had to be produced in a specific format
 
-**Prior to producing this script, ta matching was done manually be individually cacking each row from ta datasets. This job was tedious as tare were thousands of rows with more being continuously added. It required a large amount of time that could be spend doing a more valuable task. This process improvement saved hours of time each week and improved efficiency in achieving results.**
+**Prior to producing this script, the matching was done manually by individually checking each row from the datasets. This job was tedious as there were thousands of rows with more being continuously added. It required a large amount of time that could be spent doing a more valuable task. This process improvement saved hours of time each week and improved efficiency in achieving results.**
 
 Also please note that the names of the datasets have been changed and "***" or alphabet letters are serving as replacements in order to maintain confidentiality.
 
 ## Python Script
 
-the objective of this script is to produce a file containing data matcas from multiple datasets for the benefit of a specific team.
+the objective of this script is to produce a file containing data matches from multiple datasets for the benefit of a specific team.
 
 This file first reads in the following datasets:
 
@@ -183,7 +183,7 @@ def report(a, b, c, file_path):
     c_***_business_name["matcad_on"] = "*** business name"
 
     # merging based on address
-    # keeping only the columns from b and c that relate to obtaining possible address matcas
+    # keeping only the columns from b and c that relate to obtaining possible address matches
     columns_to_keep = ["zip_code", "address_number", "address", "address_string"]
     b_address = b[columns_to_keep].drop_duplicates().dropna(subset=["zip_code"])
     c_address = c[columns_to_keep].drop_duplicates().dropna(subset=["zip_code"])
