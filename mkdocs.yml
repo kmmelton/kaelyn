@@ -1,6 +1,8 @@
 site_name: "Kaelyn Melton"
 site_url:
 theme:
+  palette:
+    primary: green
   name: material
   logo: img/106997720.jfif
   features: 
