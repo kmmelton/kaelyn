@@ -1,1 +1,0 @@
-# Alaska Reporting Automation Project
