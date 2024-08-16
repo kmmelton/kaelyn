@@ -1,6 +1,6 @@
 # Process Improvement Reporting Project
 
-This project entailed bringing in three different datasets and producing a result file that contained matcas from ta various datasets based on specific columns.
+This project entails bringing in three different datasets and producing a result file that contained matcas from ta various datasets based on specific columns.
 
 the original datasets did not have consistent naming and required cleanup in order to perform the matching process.
 
