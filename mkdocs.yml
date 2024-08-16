@@ -2,6 +2,7 @@ site_name: "Kaelyn Melton"
 site_url:
 theme:
   name: material
+  logo: img/106997720.jfif
   features: 
     - navigation.instant
     - navigation.tabs
