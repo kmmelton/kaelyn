@@ -14,6 +14,7 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
+  - Home: index.md
   - Projects:
     - Automation Value Analysis: Projects/automation_value_analysis.md
     - Reporting Automation: Projects/alaska_reporting.md
