@@ -12,3 +12,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+
+nav:
+  - Projects:
+    - Automation Value Analysis: Projects/automation_value_analysis.md
+    - Reporting Automation: Projects/alaska_reporting.md
