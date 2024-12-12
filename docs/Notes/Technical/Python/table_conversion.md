@@ -1,6 +1,6 @@
 # Markdown Table Reformatting and Conversion
 
-This script was used to reformat Markdown files that had been created using CA DBO Reference Guides. All of the material had been formatted within tables,
+This script was used to reformat Markdown files that had been created using *** Reference Guides. All of the material had been formatted within tables,
 but it was later decided to take the content out of the tables to better fit MkDocs. Since there were hundreds of files to go through, this script completed
 most of the reformatting work so that only small additional changes were required.
 
